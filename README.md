@@ -26,6 +26,6 @@ FINAL_MODEL_github.ipynb file contains the code for unzipping the data in the zi
 
 ChoraleTextToMuseScoreCode.ipynb file contains the code for turning the generated chorales into musescore files from text files. The final musescore file may require some manual tweaking to get the final result.
 
-Both code files have descriptions in them to help understand what is happening at every step and how everything is processed. You can access the thesis paper from the following link:
+Both code files have descriptions in them to help understand what is happening at every step and how everything is processed. You can access the thesis paper in the repository or from the following official Carnegie Mellon University link:
 
 http://reports-archive.adm.cs.cmu.edu/anon/2025/CMU-CS-25-157.pdf
